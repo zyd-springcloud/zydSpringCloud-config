@@ -1,2 +1,4 @@
-config:
-	info:	"dev"
+server:
+  port: 4001
+
+
